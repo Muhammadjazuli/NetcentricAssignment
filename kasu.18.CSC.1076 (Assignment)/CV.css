@@ -1,0 +1,50 @@
+h1 {
+    
+    text-align: center;
+}
+body {
+    background-color: rgb(243, 233, 220);
+    margin: 100px;
+}
+p {
+    text-align: justify;
+    /* padding-right: 250px; */
+    padding-left: 50px;
+    width: 700px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table {
+    height: 300px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+th{
+    text-align: left;
+}
+header {
+    background-color: rgb(17, 16, 16);
+    color: white;
+    height: 40px;
+    width: 700px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 27px;
+    padding-top: 1%;
+}
+img {
+    border-radius: 50%;
+    position: relative;
+    top: 30px;
+}
+#additionalInfo {
+    padding-left: 20%;
+}
+.head{
+   text-align: center;
+}
